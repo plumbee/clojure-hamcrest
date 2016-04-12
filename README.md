@@ -25,7 +25,7 @@ expected: a number greater than <6>
 => nil
 ```
 
-For more examples, please see the tests.
+For more usage examples, please see the tests.
 
 ## License (See LICENSE file for full license)
 
