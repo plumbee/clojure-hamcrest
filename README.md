@@ -29,7 +29,7 @@ For more usage examples, please see the tests.
 
 ## License (See LICENSE file for full license)
 
-Copyright © 2016 Plumbee
+Copyright © 2016 Plumbee Ltd.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
