@@ -49,25 +49,3 @@
                                      :actual   (formatting/indent mismatch-description 10)
                                      :message  message})))
      (test/report {:type :pass}))))
-
-
-;;;;!;;;;;;;;;;;;;;;;
-;
-;(assert-that {} (an-instance-of java.util.Map))
-;
-;(assert-that {} (all-of (isn't (an-instance-of String))
-;                        (an-instance-of java.util.Map)))
-;
-;(assert-that [] (any-of (isn't (an-instance-of String))
-;                        (an-instance-of java.util.Map)))
-;
-;(assert-that [] (isn't (nil-value)))
-;
-;(assert-that {:a 1} (has-entry :a (equal-to 1)))
-;
-;(assert-that "Bobby" (matches-re #"Bobby"))
-;
-;(assert-that {:a "hello"} (has-str (string-contains "hello")))
-;(assert-that {:a "hello"} (has-str (isn't (string-contains "Hello"))))
-;
-;(assert-that 2 (all-of (less-than 3) (greater-than 1)))

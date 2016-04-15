@@ -1,4 +1,4 @@
-(defproject com.plumbee/clojure-hamcrest "0.1"
+(defproject com.plumbee/clojure-hamcrest "0.2"
   :description "A Clojure version of the Hamcrest matcher library."
   :url "http://plumbee.com"
   :license {:name "Apache License"
